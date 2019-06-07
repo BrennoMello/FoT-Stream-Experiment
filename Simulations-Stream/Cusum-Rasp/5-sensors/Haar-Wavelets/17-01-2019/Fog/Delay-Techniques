@@ -1,0 +1,28 @@
+01
+sc01 soundSensor Delay Techniques: 27
+sc01 temperatureSensor Delay Techniques: 11
+sc01 luminositySensor Delay Techniques: 24
+sc01 humiditySensor Delay Techniques: 19
+sc01 dustSensor Delay Techniques: 26
+
+02
+sc01 humiditySensor Delay Techniques: 16
+sc01 temperatureSensor Delay Techniques: 17
+sc01 soundSensor Delay Techniques: 22
+sc01 dustSensor Delay Techniques: 18
+sc01 luminositySensor Delay Techniques: 13
+
+03
+sc01 humiditySensor Delay Techniques: 16
+sc01 temperatureSensor Delay Techniques: 8
+sc01 soundSensor Delay Techniques: 10
+sc01 dustSensor Delay Techniques: 2
+sc01 luminositySensor Delay Techniques: 2
+
+
+dust: 15.33 ms
+humiditySensor: 17 ms
+luminositySensor: 13 ms
+soundSensor: 19 ms
+temperatureSensor: 12 ms 
+
